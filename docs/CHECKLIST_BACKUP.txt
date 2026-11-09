@@ -1,0 +1,13 @@
+CHECKLIST ANTES DO PUSH
+
+[ ] Exportar MySQL atual para mysql/sgiec_backup_completo.sql
+[ ] Confirmar estrutura + dados no dump
+[ ] Confirmar triggers/procedures no dump
+[ ] Manter os 7 JSONs finais do Mongo
+[ ] Confirmar total Mongo = 100000
+[ ] Adicionar DDL, DML, queries, views, procedures, triggers, indexes e DCL
+[ ] Adicionar requisitos, MER, modelo relacional e dicionário em docs/
+[ ] Remover credenciais/senhas
+[ ] git add .
+[ ] git commit
+[ ] git push

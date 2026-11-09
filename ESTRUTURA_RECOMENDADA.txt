@@ -1,0 +1,22 @@
+SGIEC/
+├── README.md
+├── docs/
+│   ├── requisitos/
+│   ├── dicionario-dados/
+│   ├── mer/
+│   └── modelo-relacional/
+├── mysql/
+│   ├── backup/
+│   ├── ddl/
+│   ├── dml/
+│   ├── queries/
+│   ├── views/
+│   ├── procedures/
+│   ├── triggers/
+│   ├── indexes/
+│   └── dcl/
+└── mongodb/
+    ├── dados/
+    └── scripts/
+
+Antes do envio final, você pode reorganizar os arquivos SQL nessas subpastas.
